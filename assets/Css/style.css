@@ -1,0 +1,36 @@
+body {
+	background-image: url("https://cdn-images-1.medium.com/max/1600/0*6S3t4lW2wMbWdVhR.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+	margin: 0px;
+	padding: 0px;
+}
+
+.background {
+	background: rgba(255, 165, 0, .9);
+	padding: 20px 0px 20px 0px;
+}
+
+
+h1 {
+	color: black;
+	font-size: 65px;
+}
+
+.page-text {
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+
+.answerBtn {
+	margin-bottom: 10px;
+	width: 80%;
+	font-size: 20px;
+	background: none;
+	border: none;
+}
+
+.character {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
