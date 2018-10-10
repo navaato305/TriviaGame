@@ -11,70 +11,70 @@ var question01 = {
 	answers: ["Sora", "Roxas", "Kairi", "Riku"],
 	values: ["incorrect", "correct", "incorrect", "incorrect"],
 	correct: "Roxas",
-	image: "./assets/images/roxas.png"
+	image: "./assets/Images/roxas.png"
 };
 var question02 = {
 	question: "Which person possessed Riku after he came to Maleficent?",
 	answers: ["Ansem", "Namine", "Sora", "Roxas"],
 	values: ["correct", "incorrect", "incorrect", "incorrect"],
 	correct: "Ansem",
-	image: "./assets/images/ansem.png"
+	image: "./assets/Images/ansem.png"
 };
 var question03 = {
 	question: "What happens between Sora and Kairi after Riku/Ansem is defeated in 'Kingdom Hearts 1'?",
 	answers: ["Sora gives his Keblade to Kairi", "They kiss", "Kairi kills Sora", "Sora unlocks both his heart and Kairi's"],
 	values: ["incorrect", "incorrect", "incorrect", "correct"],
 	correct: "Sora unlocks both his heart and Kairi's",
-	image: "./assets/images/kh.png"
+	image: "./assets/Images/kh.png"
 };
 var question04 = {
 	question: "Who isn't a 'Princess of Heart'",
 	answers: ["Aurora", "Alice", "Ariel", "Belle"],
 	values: ["incorrect", "incorrect", "correct", "incorrect"],
 	correct: "Ariel",
-	image: "./assets/images/ariel.png"
+	image: "./assets/Images/ariel.png"
 };
 var question05 = {
 	question: "Who composes the music for 'Kingdom Hearts'?",
 	answers: ["Yoko Shimomura", "Kaoru Wada", "Utada Hikaru", "Ayumi Hamasaki"],
 	values: ["correct", "incorrect", "incorrect", "incorrect"],
 	correct: "Yoko Shimomura",
-	image: "./assets/images/yoko.png"
+	image: "./assets/Images/yoko.png"
 };
 var question06 = {
 	question: "Who is the final boss in 'Kingdom Hearts 2'?",
 	answers: ["Axel", "Leon", "Cloud", "Xemnas"],
 	values: ["incorrect", "incorrect", "incorrect", "correct"],
 	correct: "Xemnas",
-	image: "./assets/images/xemnas.png"
+	image: "./assets/Images/xemnas.png"
 };
 var question07 = {
 	question: "How many worlds appear in both 'Kingdom Hearts 1 and 2' (including Disney Castle)?",
 	answers: ["Five", "Eight", "All of Them", "Three"],
 	values: ["incorrect", "correct", "incorrect", "incorrect"],
 	correct: "Eight",
-	image: "./assets/images/disney.png"
+	image: "./assets/Images/disney.png"
 };
 var question08 = {
 	question: "What is the name Kairi interpreted as?",
 	answers: ["Sea", "Sky", "Light", "Land"],
 	values: ["correct", "incorrect", "incorrect", "incorrect"],
 	correct: "Sea",
-	image: "./assets/images/Kairi.png"
+	image: "./assets/Images/Kairi.png"
 };
 var question09 = {
 	question: "What is the first line in Kairi's letter to Sora?",
 	answers: ["Thinking of you wherever you are", "Thinking of you wherever you may go", "Thinking of us wherever you are", "Where are you?"],
 	values: ["correct", "incorrect", "incorrect", "incorrect"],
 	correct: "Thinking of you wherever you are",
-	image: "./assets/images/Destiny.png"
+	image: "./assets/Images/Destiny.png"
 };
 var question10 = {
 	question: "How old is Sora in 'Kingdom Hearts 1'?",
 	answers: ["Eleven", "Fourteen", "Thirteen", "Twelve"],
 	values: ["incorrect", "correct", "incorrect", "incorrect"],
 	correct: "Fourteen",
-	image: "./assets/images/Sora.png"
+	image: "./assets/Images/Sora.png"
 };
 
 
