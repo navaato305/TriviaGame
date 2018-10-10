@@ -60,21 +60,21 @@ var question08 = {
 	answers: ["Sea", "Sky", "Light", "Land"],
 	values: ["correct", "incorrect", "incorrect", "incorrect"],
 	correct: "Sea",
-	image: "./assets/Images/Kairi.png"
+	image: "./assets/Images/kairi.png"
 };
 var question09 = {
 	question: "What is the first line in Kairi's letter to Sora?",
 	answers: ["Thinking of you wherever you are", "Thinking of you wherever you may go", "Thinking of us wherever you are", "Where are you?"],
 	values: ["correct", "incorrect", "incorrect", "incorrect"],
 	correct: "Thinking of you wherever you are",
-	image: "./assets/Images/Destiny.png"
+	image: "./assets/Images/destiny.png"
 };
 var question10 = {
 	question: "How old is Sora in 'Kingdom Hearts 1'?",
 	answers: ["Eleven", "Fourteen", "Thirteen", "Twelve"],
 	values: ["incorrect", "correct", "incorrect", "incorrect"],
 	correct: "Fourteen",
-	image: "./assets/Images/Sora.png"
+	image: "./assets/Images/sora.png"
 };
 
 
